@@ -1,11 +1,11 @@
-Date            UHID       Details        Payment_Method   Insurance_Provider      Amount       Approval Status
-| 2025-06-01   P1001       Pediatrics   NHIF              Insurance      | 4500   | Approved        |
-| 2025-06-01   P1002       Laboratory   MPESA             Cash           | 1200   | N/A             |
-| 2025-06-02   P1003       Radiology    AAR               Insurance      | 8500   | Pending         |
-| 2025-06-02   P1004       Pediatrics   Jubilee           Insurance      | 5000   | Approved        |
-| 2025-06-03   P1005       Pharmacy     Cash               | Cash           | 900    | N/A             |
-| 2025-06-03   P1006       Laboratory    NHIF               | Insurance      | 2000   | Approved        |
-| 2025-06-04   P1007       Radiology    Britam                | Insurance      | 7000   | Pending         |
-| 2025-06-04   P1008       Pediatrics   Cigna            | Card           | 3500   | N/A             |
-| 2025-06-05   P1009       Pharmacy     APA               | Cash           | 1200   | N/A             |
-| 2025-06-05   P1010      Laboratory   Bupa               | Insurance      | 1800   | Approved        |
+Date,UHID,Department,Insurance_Provider,Payment_Method,Amount,Approval_Status
+2025-06-01,P1001,Pediatrics,NHIF,Insurance,4500,Approved
+2025-06-01,P1002,Laboratory,None,Cash,1200,N/A
+2025-06-02,P1003,Radiology,AAR,Insurance,8500,Pending
+2025-06-02,P1004,Pediatrics,Jubilee,Insurance,5000,Approved
+2025-06-03,P1005,Pharmacy,None,Cash,900,N/A
+2025-06-03,P1006,Laboratory,NHIF,Insurance,2000,Approved
+2025-06-04,P1007,Radiology,Britam,Insurance,7000,Pending
+2025-06-04,P1008,Pediatrics,Cigna,Card,3500,N/A
+2025-06-05,P1009,Pharmacy,None,Cash,1200,N/A
+2025-06-05,P1010,Laboratory,Bupa,Insurance,1800,Approved

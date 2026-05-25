@@ -59,3 +59,6 @@ In Progress — Data analysis and dashboard development ongoing.
 
 Emmah Mwangi
 Aspiring IT Auditor | Data & Risk Analyst
+<img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/c18419ea-920e-4d89-9633-80641a493b65" />
+<img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/b5474f83-1b4f-4436-aeb9-50dc7e28c19d" />
+
